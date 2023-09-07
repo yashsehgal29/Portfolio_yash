@@ -190,7 +190,7 @@ nav{
     align-items: center;
 }
 .contactme{
-    height: 85vh;
+    height: 40vh;
     background: url( bg5.jpg) no-repeat center center/ cover;
     display: flex;
     flex-direction: column;
@@ -198,31 +198,7 @@ nav{
     align-items: center;
 
 }
-.contactform{
-    padding: 20px;
-    padding-top: 20px;
-    margin-top: 30px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 20px;
-    background-color:black;
-    font-size: 1.5rem;
-    width: 50%;
-    border:solid 3px white;
-    font-weight: 500;
-}
-.contactform input,textarea,button{
-    margin-top: 10px;
-}
-.contactform input{
-    height: 2rem;
-    width:100%;
-    border: none;
-    border-radius: 10px;
-    background-color: white;
-    padding: 10px;
-}
+
 .headertext3{
     margin-top: 30px;
     font-size: 1.3rem;
@@ -232,46 +208,6 @@ nav{
     font-size: 3rem;
     color: white;
 }
-.contactform textarea{
-    border-radius: 10px;
-    height:12vh;
-    padding: 10px;
-    width: 100%;
-    font-family: 'Poppins', sans-serif;
-}
-.send{
-    background-color: white;
-    font-family: 'Poppins', sans-serif;
-    font-size: 1rem;
-    border-radius: 10px;
-    width: 100px;
-    padding: 10px;
-    cursor: pointer;
-    margin-top: 15px;
-    /* margin-left: 30%; */
-}
-.footernavlinks{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    list-style: none;
-    gap: 2.5vw;
-    font-size: 3vh; 
-}
-.footernavlinks a{
-    color:white;
-    text-decoration: none;
-    text-decoration-color:white;
-}
-.footernavlinks a:hover{
-    text-decoration: underline;
-    text-underline-offset: 0.3rem;
-    
-}
-.footernav{
-    margin-top: 20px;
-}
-
 .copyright{
     color:white;
     font-size: 20px;
