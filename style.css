@@ -72,8 +72,7 @@ nav{
     display: flex;
     align-items: center;
     height: 80vh;
-    background: url(/assets/background1.jpg) no-repeat center center/ cover;
-    /* background-color: rgb(103, 95, 95); */
+    background: url(background1.jpg) no-repeat center center/ cover;
 }
 .homediv{
     padding-top: 12vh;
@@ -124,8 +123,7 @@ nav{
 /* About page styling */
 .about{
     height: 80vh;
-    /* background-color: black; */
-    background:url(assets/sep09.jpg) no-repeat center center/ cover;
+    background:url( sep09.jpg) no-repeat center center/ cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -161,7 +159,7 @@ nav{
 /* Experience Page */
 .Experience{
     height: 80vh;
-    background: url(assets/background4.jpg) no-repeat center center/ cover;
+    background: url(background4.jpg) no-repeat center center/ cover;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -193,7 +191,7 @@ nav{
 }
 .contactme{
     height: 85vh;
-    background: url(assets/bg5.jpg) no-repeat center center/ cover;
+    background: url( bg5.jpg) no-repeat center center/ cover;
     display: flex;
     flex-direction: column;
     /* justify-content:center ; */
